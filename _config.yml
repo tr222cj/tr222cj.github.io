@@ -1,0 +1,12 @@
+# Site settings
+title: Tomas Vaedelund - tr222cj
+email: tr222cj@student.lnu.se
+description: > # this means to ignore newlines until "baseurl:"
+  On this site I will blog about the course 1dv022.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tr222cj.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  tr222cj
+
+# Build settings
+markdown: kramdown

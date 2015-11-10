@@ -1,0 +1,10 @@
+/* TEAM */
+Your title: Tomas Vaedelund
+Site: tr222cj@student.lnu.se
+Location: Växjö, Sweden.
+
+/* THANKS */
+Name: https://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/
+
+/* SITE */
+Software: JetBrains WebStorm 11
