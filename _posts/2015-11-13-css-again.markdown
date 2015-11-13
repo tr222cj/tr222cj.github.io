@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "css again"
+date:   2015-11-13 14:29:00
+categories: 1dv022 jekyll vagrant
+---
+I tried to delete the first commit but the fear of having to redo things stopped me. I recommited and slowly backed away. Sometimes you just have to accept things as they are.
