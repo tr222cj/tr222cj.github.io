@@ -236,9 +236,24 @@
 }
 
 /**
+ * My CSS below
+ */
+
+/**
  * Container
  */
 .container {
     max-width: $max-width;
     margin: 0 auto;
+}
+
+/**
+ * Header
+ */
+.site-title {
+    background-color: $grey-color-light;
+    border-radius: 0.8em;
+    padding: 10px;
+    margin: 5px 0;
+    line-height: normal;
 }

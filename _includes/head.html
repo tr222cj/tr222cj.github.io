@@ -9,4 +9,8 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link type="text/plain" rel="author" href="/humans.txt" />
+
+    {% if site.logofont %}
+    <link href='http://fonts.googleapis.com/css?family={{ site.logofont }}'>
+    {% endif %}
 </head>

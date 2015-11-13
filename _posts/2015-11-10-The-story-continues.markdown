@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "The story continues!"
-date:   2015-11-12 12:11:33
+date:   2015-11-10 23:11:33
 categories: 1dv022 jekyll vagrant
 ---
-This is the first post of many. I have just installed the environment needed for the exam-1 and tested it. It works!
+The first commit failed or I didn't remember to do it, you choose...
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+This commit contains a lot more than I intended. Mostly did some changes to the css.

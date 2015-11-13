@@ -4,4 +4,4 @@ title:  "css again"
 date:   2015-11-13 14:29:00
 categories: 1dv022 jekyll vagrant
 ---
-I tried to delete the first commit but the fear of having to redo things stopped me. I recommited and slowly backed away. Sometimes you just have to accept things as they are.
+Some more fiddling with css and trying to figure out where I want to go with this. I can't get google WebFonts to work. Perhaps a short break will help?
