@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: false
 title:  "css again"
 date:   2015-11-13 14:29:00
 categories: 1dv022 jekyll vagrant

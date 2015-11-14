@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: false
 title:  "The story continues!"
 date:   2015-11-10 23:11:33
 categories: 1dv022 jekyll vagrant

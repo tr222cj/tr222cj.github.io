@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: false
 title:  "The story begins!"
 date:   2015-11-07 12:11:33
 categories: 1dv022 jekyll vagrant
