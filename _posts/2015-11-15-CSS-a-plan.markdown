@@ -1,0 +1,8 @@
+---
+layout: post
+comments: true
+title:  "CSS - a plan"
+date:   2015-11-14 16:07:00
+categories: 1dv022 jekyll vagrant css html
+---
+I finally have a plan for how I want this site to look. Some of it is even in place as of now :)

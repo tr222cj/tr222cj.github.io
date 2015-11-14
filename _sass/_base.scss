@@ -17,11 +17,10 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: $base-font-weight;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
-    border-top: 5px solid $grey-color-dark;
 }
 
 
@@ -99,7 +98,7 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 

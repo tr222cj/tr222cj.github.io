@@ -8,8 +8,5 @@ url: "http://tr222cj.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username: tr222cj
 
-# Site appearance
-logofont: Open+Sans
-
 # Build settings
 markdown: kramdown
