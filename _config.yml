@@ -8,6 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tr222cj.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username: tr222cj
+creator_name: Tomas Vaedelund
+paginate: 4
+paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown
