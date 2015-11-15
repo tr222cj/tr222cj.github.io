@@ -195,7 +195,12 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: $head-font-size;
+    font-weight: $head-font-weight;
+}
+
+.page-header {
+    padding-bottom: 20px;
 }
 
 .post-list {
@@ -209,12 +214,13 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $grey-color-dark;
 }
 
 .post-link {
     display: block;
     font-size: 24px;
+    font-weight: $head-font-weight;
 }
 
 
@@ -228,6 +234,7 @@
 
 .post-title {
     font-size: 42px;
+    font-weight: $head-font-weight;
     letter-spacing: -1px;
     line-height: 1;
 

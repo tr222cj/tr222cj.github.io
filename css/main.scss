@@ -10,14 +10,14 @@ $base-font-family: "Open Sans", Helvetica, Arial, sans-serif;
 $base-font-size:   20px;
 $base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
-$big-font-size:  $base-font-size * 1.125;
+$big-font-size:    $base-font-size * 1.125;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
 $text-color:       #404040;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #F98009;
 
 $grey-color:       #dcdcdc;
 $grey-color-light: #f5f5f5;
@@ -30,6 +30,8 @@ $on-laptop:        800px;
 // My variables
 $max-width:        700px;
 $circle:           75px;
+$head-font-weight: 800;
+$head-font-size:   $base-font-size * 3;
 
 // Using media queries with like this:
 // @include media-query($palm) {
