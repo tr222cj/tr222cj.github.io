@@ -11,6 +11,7 @@ github_username: tr222cj
 creator_name: Tomas Vaedelund
 paginate: 4
 paginate_path: "page:num"
+image: opengraph.png
 
 # Build settings
 markdown: kramdown
