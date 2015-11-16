@@ -25,8 +25,12 @@
         color: $text-color;
     }
 
-    @include media-query($on-palm) {
+    @include media-query($on-laptop) {
         font-size: $small-font-size;
+    }
+
+    @include media-query($on-palm) {
+        font-size: $smaller-font-size;
     }
 }
 
@@ -68,6 +72,14 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+    }
+
+    @include media-query($on-demand) {
+        font-size: $small-font-size;
+    }
+
+    @include media-query($on-laptop) {
+        font-size: $smaller-font-size;
     }
 
     @include media-query($on-palm) {
@@ -292,5 +304,9 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    th {
+        text-align: left;
     }
 }

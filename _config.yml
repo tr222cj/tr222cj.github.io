@@ -3,7 +3,7 @@ title: Tomas Vaedelund - WP
 email: tr222cj@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog about me and my progress in the programme Web programmer at Linnaeus University.
-  I will blog about my current projects and in the portfoilo you will be able to see some of them.
+  In the portfoilo you will be able to see some of my creations.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tr222cj.github.io" # the base hostname & protocol for your site
 twitter_username:
